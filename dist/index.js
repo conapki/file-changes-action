@@ -131,7 +131,7 @@ exports.run = void 0;
 const core = __importStar(__nccwpck_require__(2186));
 const github_1 = __nccwpck_require__(5928);
 const utils_1 = __nccwpck_require__(918);
-function run() {
+/*function run() {
     return __awaiter(this, void 0, void 0, function* () {
         try {
             const token = core.getInput('REPO_TOKEN');
@@ -163,7 +163,7 @@ function run() {
     });
 }
 exports.run = run;
-run();
+run();*/
 
 
 /***/ }),
