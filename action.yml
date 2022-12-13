@@ -37,7 +37,7 @@ outputs:
     description: 'The names of the removed files'
 runs:
   using: 'node16'
-  main:  'dist/index.js'
+  main:  'index.js'
 branding:
   icon:  'file-text'
   color: 'red'
